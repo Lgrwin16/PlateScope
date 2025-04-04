@@ -1,0 +1,15 @@
+apple
+banana
+bread
+burger
+cake
+carrot
+chicken
+cookie
+fries
+pasta
+pizza
+rice
+salad
+sandwich
+vegetable
